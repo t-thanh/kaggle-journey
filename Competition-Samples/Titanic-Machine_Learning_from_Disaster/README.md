@@ -1,0 +1,2 @@
+# Competition: Titanic - Machine Learning from Disaster
+This is copy of [A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy) notebook from [LD Freeman](https://www.kaggle.com/ldfreeman3) - A Hello World notebook for beginner to data science. I made some adaptations so it can be run directly from your computer after clone the repository. 
